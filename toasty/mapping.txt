@@ -1,0 +1,10 @@
+# compiler: R8
+# compiler_version: 3.3.83
+# common_typos_disable
+# {"id":"com.android.tools.r8.mapping","version":"2.0"}
+# pg_map_id: 41aa5bc
+# pg_map_hash: SHA-256 41aa5bcca191f32138c08583053d3d0146df3dcd9e09cd223cceb0cd7210a66e
+com.example.toasty.Toaster -> com.example.toasty.Toaster:
+# {"id":"sourceFile","fileName":"Toaster.kt"}
+    1:1:void privateToastLong(android.content.Context,java.lang.String):8:8 -> privateToastLong
+    1:1:void privateToastShortTest(android.content.Context,java.lang.String):12:12 -> privateToastShortTest

@@ -1,0 +1,6 @@
+com.example.toasty.Toaster
+com.example.toasty.R
+com.example.toasty.R: R()
+com.example.toasty.Toaster: Toaster()
+com.example.toasty.Toaster: void privateToastShortTest(android.content.Context,java.lang.String)
+com.example.toasty.Toaster: void privateToastLong(android.content.Context,java.lang.String)
